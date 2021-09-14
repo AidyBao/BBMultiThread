@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         self.GCDTest()
+        
+        let str = "test"
+        
     }
 
     
